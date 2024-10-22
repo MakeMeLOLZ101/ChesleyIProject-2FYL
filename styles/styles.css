@@ -1,0 +1,85 @@
+
+body {
+    background-image: url("../assets/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+h1{
+    color: darkred;
+    font-size: 3rem;
+}
+
+
+.centerDisplay{
+    display: flex;
+    justify-content: center;
+}
+
+.textPadding{
+    padding-top: 7rem;
+}
+
+.tagPadding{
+    padding-top: 6rem;
+}
+
+.textbox {
+    width: 60rem;
+    font-size: 2rem;
+    text-align: center;
+    background-color: mediumspringgreen;
+}
+
+.textSpace{
+    padding-top: 4rem;
+}
+
+.btnSize{
+    background-color: magenta;
+    height: 7rem;
+    width: 20rem;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    border-radius: 12px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.spaceAround{
+    justify-content: space-around;
+}
+
+.accordionPad{
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+.colText{
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.bg-brown{
+    background-color: brown;
+}
+
+.bg-chocolate{
+    background-color: chocolate;
+}
+
+.bg-goldenrod{
+    background-color: goldenrod;
+}
+
+
+
+
+
+
+
+
+
